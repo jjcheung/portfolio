@@ -1,23 +1,45 @@
 body {
-  font-family: Helvetica;
+  font-family: 'Helvetica', san-serif;
   background: #356dc7;
   color: white;
-  text-align: center;
+  
+  text-align: justify;
 }
 
+header{
+	padding-left:100px;
+	padding-top:50px;
+	padding-bottom:50px;
+	padding-right:100px;
+}
 
+h1 {
+	font-family: 'Source Serif Pro', serif;
+	font-size: 100px;
+}
+
+main{
+	padding-left:100px;
+	padding-right:100px;
+}
 
 div {
-  background-color: lightgrey;
+  background-color: white;
   width: 300px;
   border: 15px solid green;
   padding: 50px;
-  margin: 20px;
+  margin: auto;
+  width: 50%;
+  text-align: justify;
+}
+
+form {
+	text-align: center;
 }
 
 #intro {
-    color: orange;
+    color: black;
 }
 .content{
-    color: yellow;
+    color: gray;
 }
