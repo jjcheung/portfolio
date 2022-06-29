@@ -1,5 +1,5 @@
 body {
-  font-family: 'Helvetica', san-serif;
+  font-family: Helvetica;
   background: #356dc7;
   color: white;
   
@@ -35,6 +35,10 @@ div {
 
 form {
 	text-align: center;
+}
+
+footer {
+	text-align:center;
 }
 
 #intro {
