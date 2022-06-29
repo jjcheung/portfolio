@@ -49,8 +49,9 @@ footer {
 }
 
 #intro {
-    color: black;
+	font-family:'Source Serif Pro', serif;
+    	color: black;
 }
 .content{
-    color: gray;
+    	color: gray;
 }
