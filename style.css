@@ -1,13 +1,13 @@
 body {
   font-family: Helvetica;
-  background: #357ec7;
+  background: #356dc7;
   color: white;
   text-align: center;
 }
 
 #intro {
-    color: blue;
+    color: orange;
 }
 .content{
-    color: red;
+    color: yellow;
 }
