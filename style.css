@@ -1,5 +1,5 @@
 body {
-  font-family: Helvetica;
+  font-family: Helvetica, sans-serif;
   background: #356dc7;
   color: white;
   
@@ -20,6 +20,7 @@ h1 {
 
 h2{
 	font-family:'Source Serif Pro', serif;
+	font-size: 40px;
 }
 main{
 	padding-left:100px;
