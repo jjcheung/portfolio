@@ -1,7 +1,7 @@
 body {
   font-family: 'Montserrat', sans-serif;
-  background: #356dc7;
-  color: white;
+  background: #fffdd0;
+  color: #000080;
   
   text-align: justify;
 }
@@ -43,7 +43,7 @@ main{
 div {
   background-color: white;
   width: 300px;
-  border: 15px solid orange;
+  border: 15px solid #000080;
   padding: 50px;
   margin: auto;
   width: 50%;
