@@ -36,6 +36,7 @@ input[type="text"]{
 	background: #ffffe0;
 	border: 2px solid #000080;
 	width: 400px;
+	height: 25px;
 	font-family: 'Montserrat', sans-serif;
 }
 
@@ -49,7 +50,8 @@ textarea {
 
 input[type="submit"]{
 	background: #ffffe0;
-
+	height: 25px;
+	width: 100px;
 	font-family: 'Montserrat', sans-serif;
 	color:#000080;
 	border: 2px solid #000080;
