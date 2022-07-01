@@ -2,21 +2,16 @@ body {
   font-family: 'Montserrat', sans-serif;
   background: #ffffe0;
   color: #000080;
-  
-  text-align: justify;
-}
-
-header{
-	padding-left:100px;
-	padding-top:50px;
-	padding-bottom:50px;
-	padding-right:100px;
+ 
 	width: 300px;
   	border: 15px;
   	padding: 50px;
   	margin: auto;
   	width: 50%;
+  text-align: justify;
 }
+
+
 
 h1 {
 	font-family: 'Source Serif Pro', serif;
@@ -30,43 +25,8 @@ h2{
 h3{
 	font-family:'Source Serif Pro', serif;
 }
-main{
-	padding-left:100px;
-	padding-right:100px;
-	width: 300px;
-  	border: 15px;
-  	padding: 50px;
-  	margin: auto;
-  	width: 50%;
-}
 
-div {
-  background-color: white;
-  width: 300px;
-  border: 15px solid #000080;
-  padding: 50px;
-  margin: auto;
-  width: 50%;
-  text-align: justify;
-}
-
-form {
-	padding-left:100px;
-	padding-right:100px;
-	width: 300px;
-  	border: 15px;
-  	padding: 50px;
-  	margin: auto;
-  	width: 50%;}
 
 footer {
 	text-align:center;
-}
-
-#intro {
-	font-family:'Source Serif Pro', serif;
-    	color: black;
-}
-.content{
-    	color: gray;
 }
