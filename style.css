@@ -11,7 +11,9 @@ body {
   text-align: justify;
 }
 
-
+img{
+	float:right;
+}
 
 h1 {
 	font-family: 'Source Serif Pro', serif;
