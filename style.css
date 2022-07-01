@@ -50,7 +50,14 @@ div {
   text-align: justify;
 }
 
-
+form {
+	padding-left:100px;
+	padding-right:100px;
+	width: 300px;
+  	border: 15px;
+  	padding: 50px;
+  	margin: auto;
+  	width: 50%;}
 
 footer {
 	text-align:center;
