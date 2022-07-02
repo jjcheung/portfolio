@@ -11,6 +11,12 @@ body {
   text-align: justify;
 }
 
+@media screen and (max-width: 800px) {
+  body {
+    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+}
+
 img{
 	float:right;
 }
